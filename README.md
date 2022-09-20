@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlassBALDY
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Support Vector Machine and Multi-view Learning
+- 🌱 I’m currently learning ~~Support Vector Machine and Multi-view Learning~~ optimization algorithm, especially ADMM!
 - I also love Animation!
 
 <!---
